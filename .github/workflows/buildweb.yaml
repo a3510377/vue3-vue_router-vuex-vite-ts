@@ -34,7 +34,7 @@ jobs:
         with:
           publish_dir: ./dist
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          user_name: avery
+          user_name: monkey
           user_email: a102009102009@gmail.com
           commit_message: build${{ github.event.head_commit.message }}
           # cname:
