@@ -39,13 +39,6 @@
   "resolved" "https://registry.npmjs.org/@emmetio/scanner/-/scanner-1.0.0.tgz"
   "version" "1.0.0"
 
-"@types/axios@^0.14.0":
-  "integrity" "sha1-7CMA++fX3d1+udOr+HmZlkyvzkY="
-  "resolved" "https://registry.npmjs.org/@types/axios/-/axios-0.14.0.tgz"
-  "version" "0.14.0"
-  dependencies:
-    "axios" "*"
-
 "@types/node@^17.0.13":
   "integrity" "sha512-Y86MAxASe25hNzlDbsviXl8jQHb0RDvKt4c40ZJQ1Don0AAL0STLZSs4N+6gLEO55pedy7r2cLwS+ZDxPm/2Bw=="
   "resolved" "https://registry.npmjs.org/@types/node/-/node-17.0.13.tgz"
@@ -255,13 +248,6 @@
   "resolved" "https://registry.npmjs.org/assert-never/-/assert-never-1.2.1.tgz"
   "version" "1.2.1"
 
-"axios@*", "axios@^0.25.0":
-  "integrity" "sha512-cD8FOb0tRH3uuEe6+evtAbgJtfxr7ly3fQjYcMcuPlgkwVS9xboaVIpcDV+cYQe+yGykgwZCs1pzjntcGa6l5g=="
-  "resolved" "https://registry.npmjs.org/axios/-/axios-0.25.0.tgz"
-  "version" "0.25.0"
-  dependencies:
-    "follow-redirects" "^1.14.7"
-
 "babel-walk@3.0.0-canary-5":
   "integrity" "sha512-GAwkz0AihzY5bkwIY5QDR+LvsRQgB/B+1foMPvi0FZPMl5fjD7ICiznUiBdLYMH1QYe6vqu4gWYytZOccLouFw=="
   "resolved" "https://registry.npmjs.org/babel-walk/-/babel-walk-3.0.0-canary-5.tgz"
@@ -437,11 +423,6 @@
   "version" "7.0.1"
   dependencies:
     "to-regex-range" "^5.0.1"
-
-"follow-redirects@^1.14.7":
-  "integrity" "sha512-+hbxoLbFMbRKDwohX8GkTataGqO6Jb7jGwpAlwgy2bIz25XtRm7KEzJM76R1WiNT5SwZkX4Y75SwBolkpmE7iQ=="
-  "resolved" "https://registry.npmjs.org/follow-redirects/-/follow-redirects-1.14.7.tgz"
-  "version" "1.14.7"
 
 "function-bind@^1.1.1":
   "integrity" "sha512-yIovAzMX49sF8Yl58fSCWJ5svSLuaibPxXQJFLmBObTuCr0Mf1KiPopGM9NiFjiYBCbfaa2Fh6breQ6ANVTI0A=="
